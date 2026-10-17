@@ -1,0 +1,12 @@
+desired_distance: 0.85
+lookahead: 0.70
+kp: 1.50
+kd: 0.20
+max_steer: 0.78
+cruise_throttle: 0.28
+min_throttle: 0.13
+corner_throttle: 0.175
+front_slow_distance: 2.10
+front_stop_distance: 0.65
+emergency_distance: 0.42
+max_throttle_slew: 0.80
